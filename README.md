@@ -1,16 +1,40 @@
-# JTheme README
+# JTheme
 
-## Working with Markdown
+**Dracula But Better** — a sleek and modern Visual Studio Code theme inspired by Dracula, enhanced with custom tweaks and better contrast for extended coding sessions.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## 🌟 Features
 
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-- Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-- Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- Based on the popular Dracula theme
+- Custom tweaks for improved readability and contrast
+- Italics for comments, parameters, types, and keywords
+- Support for JavaScript, TypeScript, Python, PHP, and more
+- Pleasant pastel tones for syntax elements
 
-## For more information
+## 📸 Preview
 
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+> _Brew it Ig_
 
-**Enjoy!**
+## 📦 Installation
+
+1. Open **Extensions** in VS Code (`Ctrl+Shift+X` or `Cmd+Shift+X`)
+2. Search for **JTheme**
+3. Click **Install**
+4. Open Command Palette (`Ctrl+Shift+P`) and select:  
+   `Preferences: Color Theme` → `JTheme`
+
+## 🛠 Recommended Settings
+
+```json
+{
+  "editor.fontFamily": "Operator Mono Lig, Fira Code, JetBrainsMono Nerd Font Mono",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 15,
+  "editor.lineHighlightBackground": "#1073cf2d"
+}
+```
+
+## 👨‍🎨 Author
+
+[GitHub @anaspui](https://github.com/anaspui)
+
+If you like it, please ⭐️ the [repo](https://github.com/anaspui/japui-theme)!
