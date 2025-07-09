@@ -1,5 +1,6 @@
 {
-  "name": "jtheme",
+  "name": "jtheme-jpui",
+  "publisher": "JPui",
   "icon": "assets/@.png",
   "displayName": "JTheme",
   "description": "Dracula But Better",
