@@ -37,4 +37,4 @@
 
 [GitHub @anaspui](https://github.com/anaspui)
 
-If you like it, please ⭐️ the [repo](https://github.com/anaspui/japui-theme)!
+If you like it, please ⭐️ the [repo](https://github.com/anaspui/jtheme)!

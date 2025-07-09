@@ -4,7 +4,7 @@
   "icon": "assets/@.png",
   "displayName": "JTheme",
   "description": "Dracula But Better",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": {
     "name": "anaspui",
     "url": "https://github.com/anaspui"
@@ -24,7 +24,7 @@
       {
         "label": "JTheme",
         "uiTheme": "vs-dark",
-        "path": "./themes/japui-color-theme.json"
+        "path": "./themes/jtheme-color-theme.json"
       }
     ]
   }
